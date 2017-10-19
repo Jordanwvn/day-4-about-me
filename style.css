@@ -1,0 +1,32 @@
+/* app styles */
+header {
+  background: #444;
+  color: #fff;
+  padding: 20px;
+  font-family: helvetica;
+  text-align: center;
+}
+
+header p {
+  color: #aaa;
+}
+
+h1 {
+  font-size: 75px;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 40px;
+  font-family: helvetica;
+}
+
+li {
+  font-family: helvetica;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  color: #444;
+}
